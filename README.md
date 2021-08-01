@@ -5,4 +5,4 @@
 
 ## home page
 
-(PAT'S COOKIE STAND)[https://itsjustrobert.github.io/Cookie-Stand/mainpage/index.html] 
+[PAT'S SALMON COOKIE STAND](https://itsjustrobert.github.io/Cookie-Stand/mainpage/index.html)
