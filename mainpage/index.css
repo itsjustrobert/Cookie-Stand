@@ -1,0 +1,93 @@
+
+
+/* global styles */
+*{
+    background: linear-gradient(to bottom, rgba(255,255,255,0.15) 0%, rgba(0,0,0,0.15) 100%), radial-gradient(at top center, rgba(255,255,255,0.40) 0%, rgba(0,0,0,0.40) 120%) #989898;
+    background-blend-mode: multiply,multiply;
+background-size:cover;
+    background-repeat: no-repeat;
+    font-family: "Sofia", sans-serif;
+    color:black;
+
+}
+a{ text-decoration: none;
+    color:#000000;
+
+}
+.rule{
+height:10px;
+
+}
+h1{
+    font-size:2rem;
+    color:#ffffff;
+
+}
+
+
+
+/* global styles */
+
+/*  */
+#openHours{
+    text-align: center;
+height:50px;
+font-size: 1.5rem;
+}
+#locations{
+    text-align: center;
+height:50px;
+font-size: 1.5rem;
+}
+.link{
+display:inline;
+margin:5rem;
+position:relative;
+left:420px;
+top:30px;
+font-size: 2rem;
+}
+#title{
+    text-align: center;
+    position: relative;
+    top:20px;
+    
+}
+/* main content */
+.merch{
+    position:relative;
+    top:0px;
+    font-size: 1.5rem;;
+    
+}
+#merch{
+    font-size:1.8rem;
+    text-align: center;
+    display:block;
+}
+#shirt{
+    height:250px;
+    width:250px;
+}
+#cups{
+    height:250px;
+    width:250px;
+position: relative;
+left:260px;
+bottom:250px;
+}
+#hats{
+    height:220px;
+    width:220px;
+position: relative;
+left:520px;
+bottom:500px;
+}
+
+
+
+
+
+
+
+/* main content */
